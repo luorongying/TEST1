@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="backManage-main">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/backManage-main.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
